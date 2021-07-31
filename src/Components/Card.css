@@ -1,0 +1,13 @@
+.custom_card {
+  height: 54px;
+  transition: 0.2s ease;
+  overflow: hidden;
+}
+
+.custom_card_open {
+  height: 320px;
+}
+
+h1 {
+  text-align: center;
+}
